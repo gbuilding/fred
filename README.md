@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fred</h1>
-<h3 align="center">ESD & building service engineer, researcher & project manager based in Perth</h3>
+<h3 align="center">ESD & building service engineer, project manager & researcher based in Perth</h3>
 
 - 🔭 I’m currently working on [Climate Adaptative Buildings](https://buildingadapt.github.io/TG50/)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating on [Data Drive Smart Buildings](https://annex81.iea-ebc.org/)
 
-- 🤝 I have a decade of experience on [Sustainable Built Enviornment](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
+- 🤝 [I have two decades of experience in sustainable building design and development.](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
 
 - 💬 Ask me about **Building energy & ventilation, Mech/Elec services, wind engineering**
 
