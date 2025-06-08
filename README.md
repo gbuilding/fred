@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fred</h1>
-<h3 align="center">ESD & building service engineer, researcher & PM from Australia</h3>
+<h3 align="center">ESD & building service engineer, researcher & project manager based in Perth</h3>
 
 - 🔭 I’m currently working on [Climate Adaptative Buildings](https://buildingadapt.github.io/TG50/)
 
@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Building energy & ventilation, Mech/Elec services, wind engineering**
 
-- 📫 How to reach me **fredcgao@gmail.com**
+- 📫 Reach me at **fredcgao@gmail.com**
 
 - 📄 Know about my experiences (www.linkedin.com/in/chun-ping)
 
-- ⚡ Fun fact **Served as a ventilation specialist during Covid**
+- ⚡ Fun fact **Served as a ventilation investigator during Covid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
