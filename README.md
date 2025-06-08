@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fred</h1>
 <h3 align="center">ESD & building service engineer, researcher & PM from Australia</h3>
 
-- 🔭 I’m currently working on [Climate Adaptative Buildings](https://buildingadpt.github.io/TG50)
+- 🔭 I’m currently working on [Climate Adaptative Buildings](https://buildingadapt.github.io/TG50/)
 
 - 🌱 I’m currently learning **AI and data driven sustainability solutions**
 
