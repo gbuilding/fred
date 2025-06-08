@@ -7,13 +7,13 @@
 
 - 👯 I’m collaborating on [Data Drive Smart Buildings](https://annex81.iea-ebc.org/)
 
-- 🤝 I have more than a decade of experience on [Sustainable Built Enviornment](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
+- 🤝 I have a decade of experience on [Sustainable Built Enviornment](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
 
 - 💬 Ask me about **Building energy & ventilation, Mech/Elec services, wind engineering**
 
 - 📫 How to reach me **fredcgao@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/chun-ping](www.linkedin.com/in/chun-ping)
+- 📄 Know about my experiences (www.linkedin.com/in/chun-ping)
 
 - ⚡ Fun fact **Served as a ventilation specialist during Covid**
 
