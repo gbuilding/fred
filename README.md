@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating on [Data Drive Smart Buildings](https://annex81.iea-ebc.org/)
 
-- 🤝 [I have two decades of experience in sustainable building design and development.](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
+- 🤝 I have two decades of experience in [sustainable building design and development](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
 
 - 💬 Ask me about **Building energy & ventilation, Mech/Elec services, wind engineering**
 
