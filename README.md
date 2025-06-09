@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Fred</h1>
 <h3 align="center">Experienced engineer, researcher, and program leader focused on sustainability and climate resilience, with a regional base in Western Australia and Southeast Asia (GMT-8) </h3>
 
-- 🔭 I’m currently working on [Climate Adaptative Buildings](https://buildingadapt.github.io/TG50/)
+- 🔭 I’m currently working on [Climate Adaptive Buildings](https://buildingadapt.github.io/TG50/)
 
-- 👯 I’m collaborating on [Data Drive Smart Buildings](https://annex81.iea-ebc.org/)
+- 👯 I’m collaborating on [Data Driven Smart Buildings](https://annex81.iea-ebc.org/)
 
 - 🤝 I have worked in various roles on [sustainable built environment](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
 
