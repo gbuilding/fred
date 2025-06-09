@@ -1,21 +1,22 @@
 <h1 align="center">Hi, I'm Fred</h1>
-<h3 align="center">ESD & building service engineer, project manager & researcher based in Perth</h3>
+<h3 align="center">Experienced engineer, researcher, and program leader focused on sustainability and climate resilience, with a regional base in Western Australia and Southeast Asia (GMT-8) </h3>
 
 - 🔭 I’m currently working on [Climate Adaptative Buildings](https://buildingadapt.github.io/TG50/)
 
-- 🌱 I’m currently learning **AI and data driven sustainability solutions**
-
 - 👯 I’m collaborating on [Data Drive Smart Buildings](https://annex81.iea-ebc.org/)
 
-- 🤝 I have two decades of experience in [sustainable building design and development](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
+- 🤝 I have been working on [sustainable building design and development](https://www.iea-events.org/singapore-iea/speaker/492d4b6e-fbeb-ec11-b47a-a04a5e7cf9da/chun-ping-gao)
 
-- 💬 Ask me about **Building energy & ventilation, Mech/Elec services, wind engineering**
+- 🌱 I’m currently learning **AI and data driven sustainability solutions**
 
-- 📫 Reach me at **fredcgao@gmail.com**
+- 💬 Ask me about **building energy & decarbonisation, Mech/Elec/Facade systems, climate responsive design and adaptation, airflow and wind engineering**
 
 - 📄 Know about my experiences (www.linkedin.com/in/chun-ping)
 
+- 📫 Reach me at **LinkedIn**
+
 - ⚡ Fun fact **Served as a ventilation investigator during Covid**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
