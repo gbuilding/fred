@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fred</h1>
-<h3 align="center">Experienced engineer, researcher, and program leader focused on sustainability and climate resilience, with a regional base in Western Australia and Southeast Asia (GMT-8) </h3>
+<h3 align="center">Experienced consultant, program/project manager, and researcher focused on sustainability and climate resilience, based in (GMT-8) </h3>
 
-- 🔭 I’m currently working on [Climate Adaptive Buildings](https://buildingadapt.github.io/TG50/)
+- 🔭 I’m currently working on [Climate Adaptive Buildings](https://buildingadapt.github.io/WA/)
 
 - 👯 I’m collaborating on [Data Driven Smart Buildings](https://annex81.iea-ebc.org/)
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AI and data driven sustainability solutions**
 
-- 💬 Ask me about **building energy & decarbonisation, mech/elec/facade systems, climate responsive design and adaptation, airflow, overheating and wind engineering**
+- 💬 Ask me about **energy modelling & decarbonisation, carbon accounting, climate resilience and adaptation, building science, airflow and wind engineering**
 
 - 📫 Know about my experiences and reach me at **LinkedIn**
 
-- ⚡ Fun fact **nearly transitioned into medical engineering during SARS and Covid**
+- ⚡ Fun fact **nearly transitioned into IAQ during SARS and Covid**
 
 
 <h3 align="left">Connect with me:</h3>
